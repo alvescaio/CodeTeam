@@ -1,0 +1,28 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+body{
+	background-color:#CCC; 
+	font: 90% sans-serif;
+	text-align: center;
+	width: 70%;
+	margin: 0 auto;
+}
+
+.title{
+	font-size: 240% ;
+	color: #444;
+	height: 100px;
+	margin: 2% 0 0 0 ;  
+	border-bottom: 10px dashed #E9E9E9;
+	text-shadow: ;
+}
+
+
+.subtitle{
+	font-size: 190%;
+	color:#444;
+	margin-top: 5%;
+}
